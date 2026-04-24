@@ -75,7 +75,7 @@ streamlit run main.py
 ## Project Purpose
 
 This project demonstrates how AI models can be integrated into web applications to provide intelligent document analysis and feedback.
-It is designed as a beginner-friendly AI project showcasing the integration of **Streamlit and generative AI models**.
+It is an AI project showcasing the integration of **Streamlit and generative AI models**.
 
 ---
 
